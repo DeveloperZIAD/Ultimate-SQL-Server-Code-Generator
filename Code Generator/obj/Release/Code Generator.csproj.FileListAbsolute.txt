@@ -1,0 +1,17 @@
+E:\repos\Code Generator\Code Generator\bin\Release\Code Generator.exe.config
+E:\repos\Code Generator\Code Generator\bin\Release\Code Generator.exe
+E:\repos\Code Generator\Code Generator\bin\Release\Code Generator.pdb
+E:\repos\Code Generator\Code Generator\bin\Release\BusinessLayer.dll
+E:\repos\Code Generator\Code Generator\bin\Release\DataLayer.dll
+E:\repos\Code Generator\Code Generator\bin\Release\BusinessLayer.pdb
+E:\repos\Code Generator\Code Generator\bin\Release\BusinessLayer.dll.config
+E:\repos\Code Generator\Code Generator\bin\Release\DataLayer.pdb
+E:\repos\Code Generator\Code Generator\bin\Release\DataLayer.dll.config
+E:\repos\Code Generator\Code Generator\obj\Release\Code Generator.csproj.AssemblyReference.cache
+E:\repos\Code Generator\Code Generator\obj\Release\CodeGenerator.frmCodeGenerator.resources
+E:\repos\Code Generator\Code Generator\obj\Release\Code_Generator.Properties.Resources.resources
+E:\repos\Code Generator\Code Generator\obj\Release\Code Generator.csproj.GenerateResource.cache
+E:\repos\Code Generator\Code Generator\obj\Release\Code Generator.csproj.CoreCompileInputs.cache
+E:\repos\Code Generator\Code Generator\obj\Release\Code Gen.0C0DDA72.Up2Date
+E:\repos\Code Generator\Code Generator\obj\Release\Code Generator.exe
+E:\repos\Code Generator\Code Generator\obj\Release\Code Generator.pdb

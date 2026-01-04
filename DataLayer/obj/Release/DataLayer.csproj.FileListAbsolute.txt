@@ -1,0 +1,10 @@
+E:\repos\Code Generator\DataLayer\bin\Release\DataLayer.dll.config
+E:\repos\Code Generator\DataLayer\bin\Release\DataLayer.dll
+E:\repos\Code Generator\DataLayer\bin\Release\DataLayer.pdb
+E:\repos\Code Generator\DataLayer\bin\Release\System.Data.SqlClient.dll
+E:\repos\Code Generator\DataLayer\bin\Release\System.Data.SqlClient.xml
+E:\repos\Code Generator\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+E:\repos\Code Generator\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+E:\repos\Code Generator\DataLayer\obj\Release\DataLayer.csproj.Up2Date
+E:\repos\Code Generator\DataLayer\obj\Release\DataLayer.dll
+E:\repos\Code Generator\DataLayer\obj\Release\DataLayer.pdb
